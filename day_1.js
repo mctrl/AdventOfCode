@@ -1004,25 +1004,15 @@ const listOfFrequencies = `+5
 
     //part 2
 
-
 let trackedArray = [],
-startingPoint = 0,
-result2 = null,
-currentFrequency,
-index = 0;
-
-while (!result2) {
-    currentFrequency = startingPoint + listOfFrequencies[index];
-    if (trackedArray.includes(currentFrequency)) {
-        result = currentFrequency;
-        break;
-    }    
+currentFrequency = 0,
+index =0 ;
+while (!trackedArray.includes(currentFrequency)) {
     trackedArray.push(currentFrequency);
-    startingPoint = currentFrequency;
+    currentFrequency +=  listOfFrequencies[index];
     index = index < listOfFrequencies.length-1 ? index +1 : 0;
-
 }
-console.log('Part two - ', result2)
+console.log('Part two - ', currentFrequency)
 
 
 
