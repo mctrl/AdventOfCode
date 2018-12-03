@@ -1,0 +1,44 @@
+<?php 
+$stringOfBoxes = "revtoubfniyhzsgxdowjwkqglp revtcgbfniyhzsvxdomjwkqmlp cevtcubfniyhqsgxdoakwkqmlp revtcubfniyhzsgxdtavwkqmep reutcuboniyhzmgxdoajwkqmlp revtcubfniyhzsgxxqajmkqmlp rwvtcvbfniyhzsgxdozjwkqmlp qevtcbbfniyhzsgxdoljwkqmlp rnvtcmbfniyhzsuxdoajwkqmlp revtcubfsiyhzsgxdaaewkqmlp revtcubfpiyhesgxhoajwkqmlp revtcubfnivhzsuxdoljwkqmlp retpcubwniyhzsgxdoajwkqmlp revrcubfniyhzsgxdyajhkqmlp revtcbbfniyhzsixdoajwvqmlp revtcubfniyhzsgxdoanmkqmpp jevtoubfnuyhzsgxdoajwkqmlp rpwtcubfniehzsgxdoajwkqmlp revhcubfniyhnsgxdoajwkxmlp revtcubfniyhzswxdodjwkqvlp reotcubfciyhzsgxdnajwkqmlp revtcubfniyhzsgxdbatwsqmlp rlvbcubfniyhzssxdoajwkqmlp rentcubfnyyhzsgxdozjwkqmlp revtcuufniyhasgxdohjwkqmlp jevtcubfniyhxsgxdoajwkqwlp ravtcubfnryhzfgxdoajwkqmlp reltcubfnvyhzsgxdoajwkumlp revtrubfnschzsgxdoajwkqmlp uevtcubanichzsgxdoajwkqmlp revtcubfniyhzdpxdoajwwqmlp revtcubfhiyhzsgxdoajgkqplp revtcubfniyxzygxdoajwkqmld revtcunfniyfzsgxdoajwkqwlp reqtcubfniyhzsgxdoajwfqmlj revtcubfniyhzagedaajwkqmlp revthuefniyhzsgxroajwkqmlp revtcrbfodyhzsgxdoajwkqmlp revtcubfniyhxsgxdlajwuqmlp revtrubfnirhzsgxdokjwkqmlp revtiubfniyhzagudoajwkqmlp jevtcubfniyhusgxsoajwkqmlp reetcubfniyhzsgxdoajvmqmlp pestcubfniyhzsgxdoajwkqglp revtcubfniyhzsgxdoiowkqalp revscubfniyhzsgxdoajwkoplp revtcubfnoyhzsgxdlajwkymlp rkvtcubfniyhzsgxdoajzkqhlp revtuubfniyhzsgxdojjwkqglp revtcubmniyhzsgydoajwkzmlp revtcybfnijhzsgxvoajwkqmlp rxftcubfnkyhzsgxdoajwkqmlp gertcubfniyhzsgxjoajwkqmlp revtcabfniygzdgxdoajwkqmlp levgcubfniyhzsgxdoalwkqmlp revtcubfniyhzslxdofjwkqxlp revtcybwniyhzsgxdoajwkqmlx devtcubpniyhzsgqdoajwkqmlp pevtcjbfniyhzsbxdoajwkqmlp revtcubfeiehzsgxdoafwkqmlp revwcubfniyhzsgxdoawekqmlp revtcubfniyussgxdoawwkqmlp revtcuafnczhzsgxdoajwkqmlp revtaubfniyhusgxdoajwkqilp revtcubfnidhzxgxdoajwkqmlt revtcubfniyhzsexdmajwnqmlp revtcubfnhyhzsgxdwxjwkqmlp revtalbfniyhzsgxdoajwbqmlp revtcubfniyazsgxdoajwkqcvp rcvtcubfniyhzwgxdoajwkqmsp revthubfniyhzxgxdoalwkqmlp revtcubfniyazsoxgoajwkqmlp revtcubkriyhzsgtdoajwkqmlp revtcubfniyhzsgxgeajwgqmlp heftcubfniypzsgxdoajwkqmlp revtclbfniyhzsgxdowjnkqmlp revtcubfnifhzsgxdoamwkqmhp revncubfniyhzsgxdoxjwiqmlp reitcurfniyhzsgxdoajwkrmlp revtfmbfniyhzsgxdoajwkqmbp revtcubfniahzsgxdoajwkqhtp rejtcubfhiyhzsgxdoajwkqmfp revtcuxfqiyhzsgxdoajwkqmlh revtcuzfniwhzsgxdoajwkqmcp revtcubfniyhzsmxdotjwkqmlx revtcubfniyhzzgxmoajwkqulp revtcuaffiyhzsgxdoajwkqmlj revtcxbfniyhzsaxdoajwkqflp revtjubfniyhzcrxdoajwkqmlp revtcunfniyhzsgxdfajwoqmlp revtcubfpiytzswxdoajwkqmlp revtcubfniyhzsgxdorjwiqmtp oevtcubfniyhzsgidoajwkqmlt revccubzniyhztgxdoajwkqmlp reircubfniwhzsgxdoajwkqmlp revtcubfniyhzsgxhyajwkqvlp revtcubfnpyhzsgxdoajwkvblp revtduvfniyhzsixdoajwkqmlp revtcebfniyhzsgydpajwkqmlp revtcubftiyhzsgxwkajwkqmlp revtcdbfniyuzsgxdoajlkqmlp revtcubfnvydjsgxdoajwkqmlp cevtcupfniypzsgxdoajwkqmlp revtcubfniyhzsgoeonjwkqmlp revtcsbfniyhzsgxdoyjwdqmlp revtcubfriyhzugxdoakwkqmlp revtcadfniohzsgxdoajwkqmlp revrcubfniyhzsguxoajwkqmlp ruvtcubfniyhzsxxdoahwkqmlp aevtcubfniyhzsgcdoajwkqdlp revtcubgniyhzwgxdoajpkqmlp revtcubfniyhzegxdoajwkumsp rlvtcubzniyhzsgxdoajwkqzlp revtfubfniyhzxgbdoajwkqmlp revtcubfniyszssxdoajwkymlp revtcubfniyhzsgxdoarskzmlp rewtcubfniyhzsgxdoajwkpmlh revtcubbniyhzsfxdxajwkqmlp yeitcubfniyhzsgxdrajwkqmlp revtcubfniyhzsrxnoajwkemlp revtcuefnqyhzsgxdoajwkqmbp revtcubfniyhzsuxdoajwdqnlp revtcujfnifhzsgxdoaswkqmlp revtcuyfniyhzsgxdoaswklmlp reeacubfniyhzsgxdoajwkqmfp revtcubvniyhzsgxdoauwkqmls revtpubkniyhzsgxdoajvkqmlp revtcubfnpyhzsgxdoavnkqmlp revtcobfnvyhzsfxdoajwkqmlp gevtcubfniyhzsgxcoajwkqmld rivtcubfniyhzqgxdpajwkqmlp rettgubfngyhzsgxdoajwkqmlp revtcuhfccyhzsgxdoajwkqmlp rertarbfniyhzsgxdoajwkqmlp rhftcybfniyhzsgxdoajwkqmlp revtcvjfniyhzsgxboajwkqmlp reetcubfnikhzsgxdoajwkqmsp revtwubfniyhusgxdoajwkqelp revtcdbfniyyzsgxdwajwkqmlp revtcurfniyhzsgxduajwkqmtp revtcuafneyhzsgxduajwkqmlp rpvtcubfziyhzsgxdoajwkqmep mevtcubfniyhzssxdoaywkqmlp reptcubfniypzsgsdoajwkqmlp revtcubfniyhnsgxdoajwcqelp revtcutfniyhzsdxdoajwkqmlr rpvtcuafniyhzsgxqoajwkqmlp revncubfniyhzsgxdoajwkqkpp rertcabfniyhzsgxdoejwkqmlp revockbfniymzsgxdoajwkqmlp revtsubfniyczsgxdoajwkqplp revrcubpniyhzbgxdoajwkqmlp revrculfniyhzsgxdoajwkrmlp revtlubfniyhzsgxdiajhkqmlp ravtcubfniyhzsgxdoajwftmlp revtcunfxiyhzssxdoajwkqmlp revscubfniypzsgxroajwkqmlp mevtzubfniyhysgxdoajwkqmlp reitcubfniyuzogxdoajwkqmlp revycubfniyhwsgxdoajwkqmlg revtcubfnyyhzsgxdoajwkomqp zevtcutfniyhzsgxcoajwkqmlp revtwubfniylzsgxdjajwkqmlp oevtcubfniyhzsgxdoaowkzmlp revtcubfniyhzsgxdxajwwqclp revtcuafniyhzsgxdlacwkqmlp revtcubfniyhzsgxdqrjlkqmlp revmcubfnvyhzsgxduajwkqmlp rgvvcubfniyhzxgxdoajwkqmlp revtcubfniyhzsgxdoakwiqmlz reztcubfniyhzsgxddajwnqmlp revtcrbfnayhzsgxdoajwxqmlp revtcuboncyxzsgxdoajwkqmlp revtczbfniybxsgxdoajwkqmlp yevtcubfniyhcsdxdoajwkqmlp reztcmbfniyhzsgxcoajwkqmlp restcubfliyhzsbxdoajwkqmlp restcubkniyhzsgxdomjwkqmlp reokhubfniyhzsgxdoajwkqmlp rejtiubfniyhzsnxdoajwkqmlp revtcubfuiyjzsgxdoajykqmlp revscubfniyhzsixdoajwkqhlp revtjuzfniyhzsgxdoajwkqilp revtcubfziyhzsgxdoajhgqmlp revtcubiniyhzsgldoacwkqmlp revtcubfngyhisgxdoajwkqmkp ruvtcubfniyhzsgxloajwkqplp rtvtcubfniqbzsgxdoajwkqmlp revtcubfniyhzegxdffjwkqmlp revtcumsniyhzsgxdoajwkqmsp rmvtcubfnhyhzsgxsoajwkqmlp revtcbbfniyhzsgxdoajwkqzgp rebtcjufniyhzsgxdoajwkqmlp rephcubfniyhzvgxdoajwkqmlp revtcpbfniyxzsgxdoajwkqmls revjcubfniyizsgxdoajwkqmcp revtcuqfniyhzsgxdoavwkqmdp rettcubfniyhzsgxdoojwkqmbp rkvtcubfmuyhzsgxdoajwkqmlp revtcubcniyhzngxdoajlkqmlp revxcubfpiyfzsgxdoajwkqmlp revtcubfniyhzsgkkoajwklmlp revtcubfniyhzsbxdoajwqqslp zecycubfniyhzsgxdoajwkqmlp revtcubfniyhzsggaoajwksmlp revtcubffiyhzspxdoajwkqmmp ruvtcubfniyhzsgxdoajwkamlu revtcubfnmyhzsgxjoajwuqmlp revtcubfniyhisgxdoajwkqjgp revthubfniyhzsgxdoajwkeolp ryvtgubfniyhzsgidoajwkqmlp reitiubfniyhzsgxdoajwkqmbp rektcubfniyhzsfxdoajpkqmlp revbcubfniykzsgxdoajwkqwlp revzyubfniyhzkgxdoajwkqmlp ravtcubfniyhzsgxdoajwkhmap revtcubfnfyhzsgxdvpjwkqmlp rhvtcnbfnibhzsgxdoajwkqmlp revtctbfniywzsgxroajwkqmlp revtcubfniyhzsfmdoabwkqmlp sevtcubfniynzsgxpoajwkqmlp revtcnbfniyhzzgxdoajwzqmlp revtcoofniyhzsgxdoajwkqmrp revtcubfaiynysgxdoajwkqmlp revtlubfniyizsnxdoajwkqmlp revtcubfnwyzzsgxdoajwkqmzp revtqubfjiyhzsgxdoajwkrmlp revtaubfniyhpsgxdoajwkqilp revncuufniwhzsgxdoajwkqmlp revtcubfngyhisgxdoauwkqmlp revtcubynqyhzdgxdoajwkqmlp revtcubfniykzsgxdoyjwkqmla revttubfniytzsghdoajwkqmlp rerzcujfniyhzsgxdoajwkqmlp revtcubtniydzsgxdoajwkpmlp revecubfniyhzsvxsoajwkqmlp revtcuvfniyhzsgsdaajwkqmlp revtcubfniyxzsgxdoajtkzmlp revtcukfxiyhzsgxdofjwkqmlp revtcubfnayhzugxdqajwkqmlp revtcbbfniyizsgxdoajwkqmop revtcubfnzyhzsgxdoajwoqmpp reitcnbfniyqzsgxdoajwkqmlp rektcubfniyhzsgxdgijwkqmlp revtcubfniyhpsaxdoajdkqmlp ckvtcubfniyhzsgxeoajwkqmlp revtcubfniyhzsgxdhajzknmlp revscubfniyhrsgxdoajwwqmlp revtcubfilyhzsgxdpajwkqmlp fevtcubyniyhzsgxdoajwkqmpp";
+// $test = 'abcdef bababc abbcde abcccd aabcdd abcdee';
+$listOfBoxes = explode(' ', $stringOfBoxes);
+$words = new stdClass();
+$words->two = 0;
+$words->three = 0;
+// $debug = array();
+foreach ($listOfBoxes as &$wordID) {
+    $count = new stdClass();
+    $foundTwo = false;
+    $foundThree = false;
+    for($i=0; $i < strlen($wordID); $i++) {
+        $letter = $wordID[$i];
+        if (empty($count->{$letter})){
+            $count->{$letter} = 1;
+        } else {
+            $count->{$letter}++;
+        }
+    }
+    
+    foreach ($count as $key => $value) {
+        
+        if ($value == 2 && !$foundTwo) {
+            $words->two++;
+            $foundTwo = true;
+        } 
+        if ($value == 3 && !$foundThree) {
+            $words->three++;
+            $foundThree = true;
+            // array_push($debug, array_search($wordID, $listOfBoxes));
+        }
+    }
+}
+$result1 = $words->two * $words->three;
+// print_r($debug);
+echo "Part one - $result1";
+         
+
+
+
+
+
+?> 
