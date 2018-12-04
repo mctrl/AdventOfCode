@@ -1327,70 +1327,66 @@ var listOfClaims = `#1 @ 167,777: 23x12
 #1327 @ 127,459: 22x19`.split('\n');
 
 
-// `#1 @ 1,3: 4x4
-// #2 @ 3,1: 4x4
-// #3 @ 5,5: 2x2`
-
 var test = `#1 @ 1,3: 4x4
 #2 @ 3,1: 4x4
-#3 @ 5,5: 2x2
-#4 @ 5,5: 2x2
-#5 @ 5,5: 2x2`.split('\n');
+#3 @ 5,5: 2x2`.split('\n');
+
 var matrix = [];
 var overlapCount = 0;
+var intactClaimId;
 listOfClaims.forEach((claim, ID) => {
     var [left, top] = claim.match(/(?<=@ )[^@:]*(?=:)/)[0].split(',').map(s => parseInt(s));
     var [width, height] = claim.match(/(\d+x\d+)/g)[0].split('x').map(s => parseInt(s));
-    // console.log('claim', ID)
     for (let row = 0; row < top + height; row++) {
-
-        var rowArray = matrix[row] || []; //if the row doesnt exist, create otherwise update
-        // console.log('row ', row , ' ',rowArray);
+        var rowArray = matrix[row] || []; 
         for (let col = 0; col < left + width; col++) {
-            // console.log('column', col);
             if (row < top) {
                 if (!rowArray[col]) {
                     rowArray[col] = '*'
-                    // console.log('before top adding *')
-                } else {
-                    // console.log('before top existing not touching')
-                }
-                
-                // rowArray.push('*')
-
+                } 
             } else if (row >= top && col < left) {
                 if (!rowArray[col]) {
                     rowArray[col] = '*'
-                    // console.log('after top and left adding *')
-                } else {
-                    // console.log('after top and left existing not touching')
-                }
-               
-
-                // rowArray.push('*')
-
+                } 
             } else if (row >= top && col >= left) {
                 if (!rowArray[col]) {
-                    // console.log('write not existing');
                     rowArray[col] = ID+1;
                 } else if (rowArray[col] && rowArray[col] === '*') {
-                    // console.log('write override *');
                     rowArray[col] = ID+1;
+
                 } else if (rowArray[col] && rowArray[col] !== '*' && rowArray[col] !== 'X') {
-                    // console.log('write override number X')
                     rowArray[col] = 'X';
                     overlapCount++;
                 }
-                
-                
-                // rowArray.push(ID)
             }
         }
         matrix[row] = rowArray;
-        // console.log(rowArray.join(''))
-
     }
-    // console.log('-----------------------------------------')
 });
-console.log(overlapCount)
-// console.log(matrix)
+
+console.log(overlapCount);
+
+listOfClaims.forEach((claim, ID) => {
+    var [left, top] = claim.match(/(?<=@ )[^@:]*(?=:)/)[0].split(',').map(s => parseInt(s));
+    var [width, height] = claim.match(/(\d+x\d+)/g)[0].split('x').map(s => parseInt(s));
+    var claimArea = width*height;
+    var writingCount = 0;
+    for (let row = 0; row < top + height; row++) {
+        
+        var rowArray = matrix[row];
+        for (let col = 0; col < left + width; col++) {
+            
+            if (row >= top && col >= left) {
+                if (rowArray[col] && rowArray[col] === ID+1 ) {
+                    writingCount++;
+                } 
+            } 
+            if (writingCount === claimArea) {
+                intactClaimId = ID+1;
+            }
+        }
+        matrix[row] = rowArray;
+    }
+});
+
+console.log(intactClaimId);
