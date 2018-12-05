@@ -368,35 +368,23 @@ gSSSeEjMLoOlEzZPpHheiIeESkeEKsTFhHfgtwWTGOoKkqQWXxwJjQxXqebBjJjJEIiDdtmKkYyeEnvV
 LlPpiKvVkIirWwRISsUtBbUuTdZzDWucCUlLzLlIXxiaAgGZweObBGgoXUuOohkKOoBbPUuqQpUfFAZEezauSsIrRxXcCTtihHHTtPpMrRmWwRrSsLMiImdwWDMmiIlCcixXIwW
 JQqPpjsMHhmGLlgStIIiiGgoODRrdTeEzZFfIixRrbwbBWLlSKAibBZzuUIqQaLlzZnNkEesfcCFbBZmMzFfZzYyBqQTtgOooOQqaAGgGUuXxOMmnMmhHNkKofFuUJDdWeEwjuU
 ogoOkaNnAnbBNKAaMmmVvHhMJJjUUuuBbRrjcEewWCBjJboOdFfDMmEeeEiIhHCcbikKIBTtRrMHfFhIimEenBlLTyYtbzHwWhZOdLlFfDoorROJjFfReEzZMmuUuzXxvJjVvVM
-mPpZUuKkUfaTtAFCcfFYsYySyAatTnNyYEFiIfuPPaATtcCpzjJZCcJjI`.split('\n').join('').split('');
+mPpZUuKkUfaTtAFCcfFYsYySyAatTnNyYEFiIfuPPaATtcCpzjJZCcJjI`.split('\n').join('').split(''); //all this was needed because VSCode wasn't happy with how long the string was
 
-var polymer = `hHsSmMHhhHwW`.split('');
-//'dabAcCaCBAcCcaDA'.split('');
-
+// var polymer = `dabAcCaCBAcCcaDA`.split('');
 
 var toLowtoUp = ['toLowerCase', 'toUpperCase'];
 var checker = false;
 var i = 0;
 while (i < polymer.length) {
-    var thereWasMatch = 0;
-    // console.log(i, ' startIteration', polymer[i], toLowtoUp[checker ? 1 : 0]);
     if (polymer[i] !== polymer[i][toLowtoUp[checker ? 1 : 0]]()) { //set checker for UpperCase or LowerCase to match polymer letter
         checker = !checker;
-        // console.log('aligning checker', toLowtoUp[checker ? 1 : 0]);
     } 
-
-    // console.log('comparing', polymer[i][toLowtoUp[!checker ? 1 : 0]](), ' with ', polymer[i + 1]);
-    while (polymer[i][toLowtoUp[!checker ? 1 : 0]]() === polymer[i+1]) {
-        thereWasMatch++;
-        // console.log(polymer[i], 'next character is same but opposite ', polymer[i+1] ,' removing both', polymer[i]);
-        polymer.splice(i, 2);
-        i--;
-        if (polymer[i] !== polymer[i][toLowtoUp[checker ? 1 : 0]]()) { //set checker for UpperCase or LowerCase to match polymer letter
-
-            checker = !checker;
-        }
+    if (polymer[i][toLowtoUp[!checker ? 1 : 0]]() === polymer[i+1]) {
+        polymer.splice(i, 2); //gets rid of both letters at once
+        i = 0; //starts from beginning, not efficient, should refactor
+    } else {
+        i++;
     }
-    // console.log(i, polymer[i][toLowtoUp[!checker ? 1 : 0]](), polymer[i + 1], 'nothing', toLowtoUp[checker ? 1 : 0]);
-    i++;
+
 }
 console.log(polymer.join('').length);
