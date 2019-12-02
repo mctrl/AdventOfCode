@@ -1098,3 +1098,9 @@ listOfTimes.forEach(record => {
 var result1 = worstGuard.id * worstGuard.minute;
 console.log(result1);
 
+var frequentSleeper = {
+    id: 0,
+    minute: 0,
+    times: 0,
+}
+
