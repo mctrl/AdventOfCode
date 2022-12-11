@@ -16,5 +16,10 @@ function transpose(matrix) {
   return row.map((value, column) => matrix.map((row) => row[column]));
 }
 
+function extractDigits(string) {
+  return string.match(/([0-9]+)/g);
+}
+
 module.exports.readInput = readInput;
 module.exports.transposeMatrix = transpose;
+module.exports.extractDigits = extractDigits;
